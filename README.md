@@ -289,7 +289,7 @@ GROUP BY b.Author ORDER BY b.Author;
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/your-username/online-bookstore-analysis.git](https://github.com/your-username/online-bookstore-analysis.git)
+   git clone https://github.com/sonukc9370-ai/Online-Book-Store-Analysis.git
    ```
 2. Set Up the Database
 
