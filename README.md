@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 This project demonstrates a relational database analysis for an Online Bookstore. It involves creating a normalized database schema, importing data, performing data cleaning, and executing complex SQL queries to derive business insights regarding sales trends, inventory management, and customer behavior.
+![Online Book Store](images1.png)
 
 ## 🗄️ Database Schema
 
