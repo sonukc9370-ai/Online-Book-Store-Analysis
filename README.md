@@ -293,16 +293,16 @@ GROUP BY b.Author ORDER BY b.Author;
    ```
 2. Set Up the Database
 
-  - Open your SQL client (MySQL Workbench, DBeaver, or VS Code).
-  - Copy the schema creation scripts (Create Database & Tables) and execute them to build the structure.
+      - Open your SQL client (MySQL Workbench, DBeaver, or VS Code).
+      - Copy the schema creation scripts (Create Database & Tables) and execute them to build the structure.
 
 3. Import the Data
 
-  - Locate the .csv files in the data/ folder of this repository.
-  - Update the file paths in the LOAD DATA INFILE commands (see the "Data Import" section) to point to the CSV files on your local machine.
-  - Run the import commands
+      - Locate the .csv files in the data/ folder of this repository.
+      - Update the file paths in the LOAD DATA INFILE commands (see the "Data Import" section) to point to the CSV files on your local machine.
+      - Run the import commands
 
 4. Run the Analysis
    
-  - Execute the Data Cleaning steps first to handle formatting issues.
-  - Run the Intermediate Queries to generate business insights.
+      - Execute the Data Cleaning steps first to handle formatting issues.
+      - Run the Intermediate Queries to generate business insights.
