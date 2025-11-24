@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 This project demonstrates a relational database analysis for an Online Bookstore. It involves creating a normalized database schema, importing data, performing data cleaning, and executing complex SQL queries to derive business insights regarding sales trends, inventory management, and customer behavior.
-![Online Book Store](images1.png)
 
 ## 🗄️ Database Schema
 
@@ -97,7 +96,7 @@ IGNORE 1 ROWS;
 ```
 
 ### Option B: Using Import Wizard
-If you encounter permission errors with `LOAD DATA` or simply prefer a GUI, use the **Table Data Import Wizard** in MySQL Workbench or the Import function in your specific SQL IDE.
+If an error is encountered with `LOAD DATA` , use the **Table Data Import Wizard** in MySQL Workbench or the Import function in specific SQL IDE.
 
 ---
 
